@@ -7,8 +7,8 @@
     <ProjectGuid>{818D5EE6-93EE-439A-945B-B266CA295C5B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LinkedInPDFParser</RootNamespace>
-    <AssemblyName>LinkedInPDFParser</AssemblyName>
+    <RootNamespace>LinkedInZIPParser</RootNamespace>
+    <AssemblyName>LinkedInZIPParser</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -79,6 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="appveyor.yml" />
     <None Include="LinkedInZIPParser.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

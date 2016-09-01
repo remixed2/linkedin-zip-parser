@@ -1,8 +1,0 @@
-﻿deploy:
-    # Deploying to NuGet feed
-  - provider: NuGet
-    server: https://www.nuget.org/api/v2/package
-    api_key:
-      secure: 299af2d9-0cf2-4f63-aa80-80b2c9fcd5d7
-    skip_symbols: false
-    artifact: /.*\.symbols\.nupkg/

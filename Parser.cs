@@ -16,7 +16,8 @@
         /// </summary>
         /// <param name="path">Uri of the ZIP file</param>
         /// <returns>An INFO object with the nested properties populated correctly</returns>
-        public static Info Parse(string path) {
+        public static Info Parse(string path)
+        {
             using (ZipFile zipFile = ZipFile.Read(path))
             {
                 return Parse(zipFile);

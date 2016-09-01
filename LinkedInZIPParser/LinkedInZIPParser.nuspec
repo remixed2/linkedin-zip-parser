@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/remixed2/linkedin-zip-parser/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/remixed2/linkedin-zip-parser</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Absolutely free</copyright>
+    <tags>linkedin zip personal data json</tags>
+  </metadata>
+</package>

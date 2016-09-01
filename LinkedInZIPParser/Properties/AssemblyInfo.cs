@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("LinkedInZIPParser")]
 [assembly: AssemblyDescription("Simple library to parse an export ZIP from linkedin")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Javier Herranz")]
 [assembly: AssemblyProduct("LinkedInZIPParser")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]

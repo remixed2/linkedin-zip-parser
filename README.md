@@ -18,6 +18,7 @@ Simple library to parse the linkedIn export ZIP file. This file contains all the
 - Recommendation Received
 - Registration Info
 - Inbox messages
+
 The ZIP file contains a bunch of CSV files and a folder with all the media files used in your profile or messages. The parser reads all these CSV files and assemblies an output INFO object with all the above mentioned data as fields. Inspired by https://github.com/JMPerez/linkedin-to-json-resume
 
 # How to backup your personal data from linkedIn

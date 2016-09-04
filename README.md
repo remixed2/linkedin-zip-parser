@@ -1,6 +1,6 @@
 # Build status
-master [![Build status](https://ci.appveyor.com/api/projects/status/wtxhmtu93xca6i1c/branch/master?svg=true)](https://ci.appveyor.com/project/remixed2/linkedin-zip-parser/branch/master)
-Inspired by https://github.com/JMPerez/linkedin-to-json-resume
+[![Build status](https://ci.appveyor.com/api/projects/status/wtxhmtu93xca6i1c/branch/master?svg=true)](https://ci.appveyor.com/project/remixed2/linkedin-zip-parser/branch/master)
+
 
 # linkedin-zip-parser
 Simple library to parse the linkedIn export ZIP file. This file contains all the data from your account including:
@@ -18,7 +18,7 @@ Simple library to parse the linkedIn export ZIP file. This file contains all the
 - Recommendation Received
 - Registration Info
 - Inbox messages
-The ZIP file contains a bunch of CSV files and a folder with all the media files used in your profile or messages. The parser reads all these CSV files and assemblies an output INFO object with all the above mentioned data as fields.
+The ZIP file contains a bunch of CSV files and a folder with all the media files used in your profile or messages. The parser reads all these CSV files and assemblies an output INFO object with all the above mentioned data as fields. Inspired by https://github.com/JMPerez/linkedin-to-json-resume
 
 # How to backup your personal data from linkedIn
 - Go to the Data Export Page on LinkedIn and click on "Request archive".
